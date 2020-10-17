@@ -110,7 +110,7 @@
 .instagram img {
     margin-right: 1.6rem;
     height: 2rem;
-    weight: 2rem;
+    width: 2rem;
 }
 
 .facebook {
@@ -143,5 +143,5 @@
 .facebook img {
     margin-right: 1.6rem;
     height: 2rem;
-    weight: 2rem;
+    width: 2rem;
 }
